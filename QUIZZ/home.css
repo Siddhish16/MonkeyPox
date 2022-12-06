@@ -1,0 +1,10 @@
+body{
+    background-image: url(https://assets.ey.com/content/dam/ey-sites/ey-com/en_in/topics/health/2020/12/ey-covid-19-vaccination-strategy.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+P{
+    padding: 8px;
+}
