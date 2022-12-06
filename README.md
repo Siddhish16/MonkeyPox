@@ -1,1 +1,2 @@
 # QuizMonkeyPoxDetector
+Detect Monkey Pox
